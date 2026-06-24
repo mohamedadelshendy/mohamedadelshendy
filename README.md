@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from EGYPT</h3>
 
 - How to reach me **mohamed3del9@gmail.com**
-- [#35](https://www.hackerrank.com/results/projecteuler/mohamed3del9) in the ProjectEuler+ competition on Hackerrank and **#1** in Egypt out of 254292 .
+- [#35](https://www.hackerrank.com/results/projecteuler/mohamed3del9) in the ProjectEuler+ competition on Hackerrank and **#1** in Egypt out of **254292** .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
