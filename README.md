@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Adel sh</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Adel Shendy</h1>
 <h3 align="center">A passionate software developer from EGYPT</h3>
 
 - 📫 How to reach me **mohamed3del9@gmail.com**
